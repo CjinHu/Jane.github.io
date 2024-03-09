@@ -1,0 +1,8 @@
+            - name: resume-creator-action
+  # You may pin to the exact commit or the version.
+  # uses: rajivnayanc/resume-creator-action@cbe09492dd8c9904c4884bd0c9f2df64029a5521
+  uses: rajivnayanc/resume-creator-action@v1.1.0
+  with:
+    # Resume filename in JSON format
+    FileName: # default is ./resume.jane
+          
